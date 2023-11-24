@@ -17,6 +17,7 @@ Aussi, je suis débutant sur le framework suivant :
 ### Contactez-moi 🤝
 
 Si mon profil vous interésse, pour me prendre en stage ou en apprentissage, je vous invites à me contacter à l'adresse mail suivante : maxime.salins@outlook.fr
+
 Vous pouvez aussi me contacter sur ma page LinkedIn : www.linkedin.com/in/maxime-salins-091b7b204
 
 ### Je vous souhaite une bonne journée ! 🌞
