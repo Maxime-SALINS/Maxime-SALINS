@@ -10,6 +10,7 @@ Actuellement je suis junior dans les languages suivant :
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 Aussi, je suis débutant sur le framework suivant :
 - Angular
