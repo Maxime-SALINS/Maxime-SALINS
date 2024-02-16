@@ -10,10 +10,11 @@ Actuellement je suis junior dans les languages suivant :
 - HTML
 - CSS
 - JavaScript
-- TypeScript
+- PHP
 
 Aussi, je suis débutant sur le framework suivant :
-- Angular
+- Bootstrap
+- React.js
 
 ### Contactez-moi 🤝
 
