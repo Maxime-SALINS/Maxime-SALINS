@@ -1,6 +1,6 @@
 # Mon profil Github | Maxime SALINS
 
-Jeune apprenti développeur et passionné de codage informatique, j'ai récemment obtenu le titre professionnel de développeur web/web mobile. Titre que j'ai obtenu dans le cadre de la formation développeur web/web mobile proposé par SIMPLON. Fin septembre prochain, j'intégrerai une formation par alternance de Concepteur et Développeur d'application desktop, mobile ou web. C'est la raison pour laquelle je suis à la recherche d'un contrat d'apprentissage dans ce domaine.
+Jeune développeur et passionné de codage informatique, j'ai récemment obtenu le titre professionnel de développeur web/web mobile. Titre que j'ai obtenu dans le cadre de la formation développeur web/web mobile proposé par SIMPLON. Depuis fin septembre 2024, j'intégrai une formation par alternance de Concepteur et Développeur d'application orienté DevOps.
 
 Je vous invite à regarder les différents Repositories de mon profil, ce qui vous donnera une idée de mes comprétences en développement web.
 
@@ -12,10 +12,10 @@ Actuellement je suis junior dans les languages suivant :
 - JavaScript
 - PHP (en Programation Orienté Object)
 
-Aussi, je suis débutant sur le framework suivant :
+Aussi, je suis débutant sur les frameworks suivants :
 - Bootstrap
-- React
-- Symfony
+- React/Vues.js (pour le Frontend)
+- Symfony (pour le backend, et avec Twig pour le fullstack)
 
 ### Contactez-moi 🤝
 
